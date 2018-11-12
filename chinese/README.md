@@ -1,4 +1,4 @@
-# Learing Chinese
+# Learning Chinese
 
 ## Stage 1 - Use Chinese for simple daily conversations
 
