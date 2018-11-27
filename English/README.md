@@ -6,11 +6,13 @@
 
 #### Vowels
 
+A E I O U
+
 What is a Vowel?
 
 A vowel is a speech sound made by the vocal folds (commonly called the vocal cords). It is also a type of letter in the alphabet.
 
-Source Wikipedia: https://simple.wikipedia.org/wiki/Vowel
+Source Of Definition Wikipedia: https://simple.wikipedia.org/wiki/Vowel
 
 #### Alphabet A To Z 
 
