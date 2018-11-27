@@ -4,7 +4,7 @@
 
 1. The Alphabet
 
-### Vowels
+#### Vowels
 
 What is a Vowel?
 
@@ -12,7 +12,7 @@ A vowel is a speech sound made by the vocal folds (commonly called the vocal cor
 
 Source Wikipedia: https://simple.wikipedia.org/wiki/Vowel
 
-### Alphabet A To Z 
+#### Alphabet A To Z 
 
 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
 
