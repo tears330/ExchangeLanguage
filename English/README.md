@@ -4,11 +4,15 @@
 
 1. The Alphabet
 
-- Vowels  
+### Vowels
 
-A E I O U 
+What is a Vowel?
 
-- Alphabet A To Z 
+A vowel is a speech sound made by the vocal folds (commonly called the vocal cords). It is also a type of letter in the alphabet.
+
+Source Wikipedia: https://simple.wikipedia.org/wiki/Vowel
+
+### Alphabet A To Z 
 
 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
 
