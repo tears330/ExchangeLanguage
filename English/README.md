@@ -40,7 +40,7 @@ Source Of Definition Wikipedia: https://simple.wikipedia.org/wiki/Alphabet
 
 ### E. Dates 
 
-# Example: 1st Cardinal Number | First Ordinal Number 
+# Cardinal Number | Ordinal Number 
 
 > - 1st | First
 > - 2nd | Second
