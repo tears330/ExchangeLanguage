@@ -28,7 +28,7 @@ Source Of Definition Wikipedia: https://simple.wikipedia.org/wiki/Alphabet
 
 ##
 
-2. Days / Months / Seasons
+2. Days / Months / Dates / Seasons
 
 ### C. Days  
  
@@ -37,6 +37,11 @@ Source Of Definition Wikipedia: https://simple.wikipedia.org/wiki/Alphabet
 ### D. Months
 
 > - January | February | March | April | May | June | July | August | September | October | November | December
+
+### E. Dates
+
+> - 1st | First
+> - 2nd | Second
 
 
 3. Numbers
