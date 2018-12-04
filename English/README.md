@@ -29,6 +29,12 @@ Source Of Definition Wikipedia: https://simple.wikipedia.org/wiki/Alphabet
 ##
 
 2. Days / Months / Seasons
+
+- Days  
+ 
+ > - Monday / Tuesday / Wednesday / Thursday / Friday / Saturday / Sunday
+
+
 3. Numbers
 4. Colors
 5. Greetings
