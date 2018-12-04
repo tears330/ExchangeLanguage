@@ -38,9 +38,9 @@ Source Of Definition Wikipedia: https://simple.wikipedia.org/wiki/Alphabet
 
 > - January | February | March | April | May | June | July | August | September | October | November | December
 
-### E. Dates
+### E. Dates 
 
-> - Cardinals Numbers | Ordinal Numbers
+#Example: 1st Cardinal Number | First Ordinal Number 
 
 > - 1st | First
 > - 2nd | Second
