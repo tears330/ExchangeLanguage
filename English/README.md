@@ -53,6 +53,12 @@ Source Of Definition Wikipedia: https://simple.wikipedia.org/wiki/Alphabet
 > - 9th | Ninth
 > - 10th | Tenth
 
+### F. Seasons
+
+#### Four Seasons
+
+> - Spring | Summer | Autumn | Winter 
+
 
 
 3. Numbers
