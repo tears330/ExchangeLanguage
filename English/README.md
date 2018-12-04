@@ -49,6 +49,10 @@ Source Of Definition Wikipedia: https://simple.wikipedia.org/wiki/Alphabet
 > - 5th | Fifth
 > - 6th | Sixth
 > - 7th | Seventh
+> - 8th | Eight
+> - 9th | Ninth
+> - 10th | Tenth
+
 
 
 3. Numbers
