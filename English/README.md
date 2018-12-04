@@ -65,6 +65,8 @@ Source Of Definition Wikipedia: https://simple.wikipedia.org/wiki/Alphabet
 > - 2 | Two
 > - 3 | Three
 > - 4 | Four
+> - 5 | Five
+> - 6 | Six
 
 
 4. Colors
