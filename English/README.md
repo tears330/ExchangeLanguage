@@ -40,8 +40,15 @@ Source Of Definition Wikipedia: https://simple.wikipedia.org/wiki/Alphabet
 
 ### E. Dates
 
+> - Cardinals Numbers | Ordinal Numbers
+
 > - 1st | First
 > - 2nd | Second
+> - 3rd | Third
+> - 4th | Fourth
+> - 5th | Fifth
+> - 6th | Sixth
+> - 7th | Seventh
 
 
 3. Numbers
