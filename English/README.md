@@ -32,11 +32,11 @@ Source Of Definition Wikipedia: https://simple.wikipedia.org/wiki/Alphabet
 
 ### C. Days  
  
- > - Monday / Tuesday / Wednesday / Thursday / Friday / Saturday / Sunday
+ > - Monday | Tuesday | Wednesday | Thursday | Friday | Saturday | Sunday
  
 ### D. Months
 
-> - January / February / March / April / May / June / July / August / September / October / November / December
+> - January | February | March | April | May | June | July | August | September | October | November | December
 
 
 3. Numbers
