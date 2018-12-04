@@ -30,7 +30,7 @@ Source Of Definition Wikipedia: https://simple.wikipedia.org/wiki/Alphabet
 
 2. Days / Months / Seasons
 
-- Days  
+A. Days  
  
  > - Monday / Tuesday / Wednesday / Thursday / Friday / Saturday / Sunday
 
