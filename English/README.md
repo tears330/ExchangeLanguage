@@ -4,7 +4,7 @@
 
 1. The Alphabet
 
-#### Vowels
+#### A. Vowels
 
 > - A E I O U
 
@@ -14,7 +14,7 @@ A vowel is a speech sound made by the vocal folds (commonly called the vocal cor
 
 Source Of Definition Wikipedia: https://simple.wikipedia.org/wiki/Vowel
 
-#### Alphabet A To Z 
+#### B. Alphabet A To Z 
 
 > - A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
 
@@ -30,7 +30,7 @@ Source Of Definition Wikipedia: https://simple.wikipedia.org/wiki/Alphabet
 
 2. Days / Months / Seasons
 
-A. Days  
+### C. Days  
  
  > - Monday / Tuesday / Wednesday / Thursday / Friday / Saturday / Sunday
 
