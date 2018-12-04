@@ -2,7 +2,7 @@
 
 ## Part 1 - Basics ##
 
-1. The Alphabet
+# 1. The Alphabet
 
 #### A. Vowels
 
@@ -28,7 +28,7 @@ Source Of Definition Wikipedia: https://simple.wikipedia.org/wiki/Alphabet
 
 ##
 
-2. Days / Months / Dates / Seasons
+# 2. Days / Months / Dates / Seasons
 
 ### C. Days  
  
