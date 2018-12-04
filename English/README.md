@@ -59,9 +59,11 @@ Source Of Definition Wikipedia: https://simple.wikipedia.org/wiki/Alphabet
 
 > - Spring | Summer | Autumn | Winter 
 
+# 3. Numbers
 
 
-3. Numbers
+
+
 4. Colors
 5. Greetings
 6. Places
