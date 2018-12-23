@@ -1,6 +1,6 @@
 # PinYin System Start
 
-Most Chinese syllables are formde by a combination of the initials, findals and tones. For example `bà` `mā` `hǎo`. The consonant at the head of a syllable (`b` `m` `h`) is call the inital. The rest of the syllable is the final(`à` `ā` `ǎ`).
+Most Chinese syllables are formed by a combination of the initials, findals and tones. For example `bà` `mā` `hǎo`. The consonant at the head of a syllable (`b` `m` `h`) is call the inital. The rest of the syllable is the final(`à` `ā` `ǎ`).
 
 
 ## Initials
